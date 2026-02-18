@@ -7,11 +7,13 @@ This repository contains exercises and projects from the Full Stack Open course 
 
 The repositoyr follows the following structure
 
+```
 part0
 part1
-  courseinfo
-  unicafe
-  anecdotes
+    courseinfo
+    unicafe
+    anecdotes
 part2
-  phonebook
-  countries
+    phonebook
+    countries
+```
